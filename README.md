@@ -7,3 +7,4 @@ Bare-metal C on the Microchip **ATmega328PB Xplained Mini** board (16 MHz), writ
 | Lab | Topic | Date |
 |---|---|---|
 | [01](lab-01-blink) | Blink an LED with GPIO registers | Sep 2025 |
+| [02](lab-02-morse-code) | Morse code blinker: lookup table + exact timing | Sep 2025 |
