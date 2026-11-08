@@ -1,0 +1,12 @@
+# Microchip Studio / AVR-GCC build output
+Debug/
+Release/
+.vs/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
